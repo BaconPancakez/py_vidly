@@ -88,7 +88,7 @@ The Django `settings.py` file contains important configurations such as:
 ### Example:
 
 ```python
-ALLOWED_HOSTS = ['guarded-inlet-90633-518ffea8ece3.herokuapp.com']
+ALLOWED_HOSTS = ['YOUR DOMAIN URL']
 DEBUG = True  # Make sure this is False in production
 ```
 
